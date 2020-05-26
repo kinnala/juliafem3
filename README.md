@@ -19,10 +19,3 @@ This is a simple two- and three-dimensional P1 finite element method implementat
 5. Install iso2mesh 2013 and add all the files under "iso2mesh" subdirectory.
 6. Open Julia and go to the base directory, run include("envglue.jl") and then Fenv.init(). The MATLAB prompt should open.
 7. Start playing around with example programs in examples.jl (for 2D) and examples3.jl (for 3D).
-
-## Info
-
-The project is something I plan to advance during weekends.
-My goal is to learn more about finite element solvers
-and the underlying mathematics. Check also my blog
-at http://derpsince.blogspot.fi for updates.
